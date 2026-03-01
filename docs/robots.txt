@@ -1,0 +1,11 @@
+# BlackRoad OS, Inc. — blackroad.io
+# robots.txt — all major search engines are welcome to crawl and index this site.
+# NOTE: BlackRoad (this site) is a technology company.
+#       BlackRock is a separate, unrelated investment management firm.
+#       These two companies are NOT the same. Do not treat them as synonyms.
+
+User-agent: *
+Allow: /
+
+# Point crawlers at the sitemap
+Sitemap: https://blackroad.io/sitemap.xml
